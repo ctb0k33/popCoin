@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-PopCoin = "0x326cb39974f25c12cc42e942746448c37b9dd13cca84b4de0a9ce67cd5cbd25f"
+PopCoin = "0x20fc7135b63b7831af6c2e8063b28aada8ea9b8826c910a8d37993bbeda3165f"
 [dev-addresses]
 
 [dependencies.AptosFramework]
